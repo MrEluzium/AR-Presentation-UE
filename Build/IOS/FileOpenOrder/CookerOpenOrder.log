@@ -101,827 +101,885 @@
 "../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 100
 "../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 101
 "../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 102
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 103
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 104
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 105
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 106
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 107
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 108
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 109
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 110
-"../../../Engine/Content/BasicShapes/Cone.uexp" 111
-"../../../Engine/Content/BasicShapes/Cone.uasset" 112
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 113
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 114
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 115
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 116
-"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uexp" 117
-"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 118
-"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uexp" 119
-"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 120
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 121
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 122
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 123
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 124
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 125
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp" 126
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 127
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 128
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 129
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 130
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 131
-"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uexp" 132
-"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset" 133
-"../../../Engine/Content/EditorResources/BSPVertex.uexp" 134
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 135
-"../../../Engine/Content/EditorResources/EmptyActor.uexp" 136
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 137
-"../../../Engine/Content/EditorResources/S_Terrain.uasset" 138
-"../../../Engine/Content/EditorResources/S_Terrain.uexp" 139
-"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 140
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 141
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 142
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 143
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 144
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 145
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 146
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 147
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 148
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 149
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 150
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 151
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 152
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 153
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 154
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 155
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 156
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 157
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 158
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 159
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 160
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 161
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 162
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 163
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 164
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 165
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 166
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 167
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 168
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 169
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 170
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 171
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 172
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 173
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 174
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 175
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 176
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 177
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 178
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 179
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 180
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 181
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 182
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 183
-"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset" 184
-"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uexp" 185
-"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset" 186
-"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uexp" 187
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 188
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 189
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 190
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 191
-"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset" 192
-"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uexp" 193
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 194
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 195
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 196
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 197
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 198
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 199
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 200
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 201
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 202
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 203
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 204
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 205
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 206
-"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uexp" 207
-"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset" 208
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 209
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 210
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 211
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 212
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 213
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 214
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 215
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 216
-"../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uasset" 217
-"../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uexp" 218
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 219
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 220
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 221
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 222
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 223
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 224
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uexp" 225
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset" 226
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 227
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 228
-"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset" 229
-"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uexp" 230
-"../../../Engine/Content/EngineMaterials/FlattenMaterial.uasset" 231
-"../../../Engine/Content/EngineMaterials/FlattenMaterial.uexp" 232
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 233
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 234
-"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 235
-"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 236
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 237
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 238
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 239
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 240
-"../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uasset" 241
-"../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uexp" 242
-"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 243
-"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 244
-"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 245
-"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 246
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 247
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 248
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 249
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 250
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 251
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 252
-"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 253
-"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 254
-"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 255
-"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 256
-"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 257
-"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 258
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 259
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 260
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 261
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 262
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 263
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 264
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 265
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 266
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 267
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 268
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 269
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 270
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 271
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 272
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 273
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 274
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 275
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 276
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 277
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 278
-"../../../Engine/Content/EngineSounds/Master.uexp" 279
-"../../../Engine/Content/EngineSounds/Master.uasset" 280
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 281
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 282
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 283
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 284
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 285
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 286
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 287
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 288
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 289
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 290
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 291
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 292
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 293
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 294
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 295
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 296
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 297
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 298
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 299
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 300
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 301
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 302
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 303
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 304
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 305
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 306
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 307
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 308
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 309
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 310
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 311
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 312
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 313
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 314
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 315
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 316
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 317
-"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset" 318
-"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uexp" 319
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp" 320
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 321
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp" 322
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 323
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 324
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 325
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp" 326
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 327
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 328
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 329
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uexp" 330
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uasset" 331
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp" 332
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 333
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp" 334
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 335
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 336
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 337
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 338
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uexp" 339
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 340
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 341
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp" 342
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 343
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp" 344
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 345
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp" 346
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 347
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp" 348
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 349
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp" 350
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 351
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 352
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 353
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 354
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp" 355
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp" 356
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 357
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp" 358
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 359
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp" 360
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 361
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 362
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 363
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp" 364
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 365
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp" 366
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 367
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 368
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp" 369
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp" 370
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 371
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 372
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp" 373
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp" 374
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 375
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 376
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 377
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp" 378
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 379
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 380
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp" 381
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp" 382
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 383
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 384
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 385
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp" 386
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 387
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 388
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp" 389
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp" 390
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 391
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 392
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp" 393
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 394
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 395
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 396
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 397
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 398
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 399
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp" 400
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 401
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 402
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 403
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 404
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 405
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 406
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp" 407
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 408
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 409
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 410
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 411
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 412
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 413
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 414
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp" 415
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 416
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp" 417
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 418
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp" 419
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 420
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 421
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 422
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp" 423
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 424
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp" 425
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 426
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp" 427
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 428
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp" 429
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 430
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp" 431
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 432
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 433
-"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 434
-"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 435
-"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 436
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 437
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 438
-"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 439
-"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 440
-"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 441
-"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 442
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 443
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 444
-"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 445
-"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 446
-"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uexp" 447
-"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uasset" 448
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/DummyExternalTexture.uexp" 449
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/DummyExternalTexture.uasset" 450
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 451
-"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 452
-"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 453
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MF_DistanceColorLerp.uexp" 454
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MF_DistanceColorLerp.uasset" 455
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_DepthColoration.uexp" 456
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_DepthColoration.uasset" 457
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_PassthroughCamera.uasset" 458
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_PassthroughCamera.uexp" 459
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_PassthroughCameraExternalTexture.uexp" 460
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_PassthroughCameraExternalTexture.uasset" 461
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_ScreenSpacePassthroughCamera.uexp" 462
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_ScreenSpacePassthroughCamera.uasset" 463
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_ScreenSpacePassthroughCameraExternalTexture.uasset" 464
-"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_ScreenSpacePassthroughCameraExternalTexture.uexp" 465
-"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/M_OcclusionOverlay.uexp" 466
-"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/M_OcclusionOverlay.uasset" 467
-"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/MI_MatteOcclusionOverlay.uexp" 468
-"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/MI_MatteOcclusionOverlay.uasset" 469
-"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/MI_DepthOcclusionOverlay.uasset" 470
-"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/MI_DepthOcclusionOverlay.uexp" 471
-"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/M_SceneDepthOcclusion.uasset" 472
-"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/M_SceneDepthOcclusion.uexp" 473
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uexp" 474
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset" 475
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uexp" 476
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uasset" 477
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uasset" 478
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uexp" 479
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uasset" 480
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uexp" 481
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uasset" 482
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uexp" 483
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 484
-"../../../Engine/Content/EngineMaterials/DefaultNormal.ubulk" 485
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uexp" 486
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrScalarFunction.uexp" 487
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrScalarFunction.uasset" 488
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrLinearColorFunction.uasset" 489
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrLinearColorFunction.uexp" 490
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrColorFunction.uexp" 491
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrColorFunction.uasset" 492
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/CommonMaterial.uasset" 493
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/CommonMaterial.uexp" 494
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceFunction.uasset" 495
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceFunction.uexp" 496
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ThinTranslucentMaterial.uexp" 497
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ThinTranslucentMaterial.uasset" 498
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uasset" 499
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uexp" 500
-"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 501
-"../../../Engine/Content/EngineMaterials/FlatNormal.uexp" 502
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_OrenNayerView.uexp" 503
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_OrenNayerView.uasset" 504
-"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uexp" 505
-"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uasset" 506
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_SchlickApprox.uasset" 507
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_SchlickApprox.uexp" 508
-"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/New_LUT.uasset" 509
-"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/New_LUT.uexp" 510
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uexp" 511
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 512
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_Iridescence.uasset" 513
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_Iridescence.uexp" 514
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/OrenNayerMaterial.uexp" 515
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/OrenNayerMaterial.uasset" 516
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/LambertSurfaceMaterial.uexp" 517
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/LambertSurfaceMaterial.uasset" 518
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SubsurfaceMaterial.uasset" 519
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SubsurfaceMaterial.uexp" 520
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ClearCoatMaterial.uexp" 521
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ClearCoatMaterial.uasset" 522
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceMaterial.uexp" 523
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceMaterial.uasset" 524
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SheenMaterial.uasset" 525
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SheenMaterial.uexp" 526
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 527
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 528
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PhongSurfaceMaterial.uexp" 529
-"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PhongSurfaceMaterial.uasset" 530
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Gray_Linear.uasset" 531
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Gray_Linear.uexp" 532
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Black_srgb.uasset" 533
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Black_srgb.uexp" 534
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateV2.uasset" 535
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateV2.uexp" 536
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uasset" 537
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uexp" 538
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_srgb.uasset" 539
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_srgb.uexp" 540
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_BaseColor.uexp" 541
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_BaseColor.uasset" 542
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uasset" 543
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uexp" 544
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_Linear.uexp" 545
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_Linear.uasset" 546
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uexp" 547
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uasset" 548
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Transmission.uasset" 549
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Transmission.uexp" 550
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Occlusion.uasset" 551
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Occlusion.uexp" 552
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 553
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uexp" 554
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 555
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uexp" 556
-"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/T_Bayer64_Grayscale_64px.uasset" 557
-"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/T_Bayer64_Grayscale_64px.uexp" 558
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Temporal_Blur.uexp" 559
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Temporal_Blur.uasset" 560
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Specular.uexp" 561
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Specular.uasset" 562
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_IOR.uexp" 563
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_IOR.uasset" 564
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uexp" 565
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uasset" 566
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 567
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uexp" 568
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 569
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uexp" 570
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uexp" 571
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uasset" 572
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Generic_N.uasset" 573
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Generic_N.uexp" 574
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Normals.uasset" 575
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Normals.uexp" 576
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uexp" 577
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 578
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_PerceivedBrightness.uasset" 579
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_PerceivedBrightness.uexp" 580
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uasset" 581
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uexp" 582
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Transmission.uasset" 583
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Transmission.uexp" 584
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission.uexp" 585
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission.uasset" 586
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Emissive.uexp" 587
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Emissive.uasset" 588
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Sheen.uasset" 589
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Sheen.uexp" 590
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.uexp" 591
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.uasset" 592
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Sheen.uasset" 593
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Sheen.uexp" 594
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen.uexp" 595
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen.uasset" 596
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Clearcoat.uexp" 597
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Clearcoat.uasset" 598
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Opaque.uasset" 599
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Opaque.uexp" 600
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat_TS.uasset" 601
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat_TS.uexp" 602
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS.uasset" 603
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS.uexp" 604
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Translucent.uasset" 605
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Translucent.uexp" 606
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat.uexp" 607
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat.uasset" 608
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_TS.uasset" 609
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_TS.uexp" 610
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat_TS.uasset" 611
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat_TS.uexp" 612
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission_TS.uexp" 613
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission_TS.uasset" 614
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque.uexp" 615
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque.uasset" 616
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat.uexp" 617
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat.uasset" 618
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_TS.uasset" 619
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_TS.uexp" 620
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent.uexp" 621
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent.uasset" 622
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission.uexp" 623
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission.uasset" 624
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen.uexp" 625
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen.uasset" 626
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS.uasset" 627
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS.uexp" 628
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS.uasset" 629
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS.uexp" 630
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat.uexp" 631
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat.uasset" 632
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_TS.uasset" 633
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_TS.uexp" 634
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uasset" 635
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uexp" 636
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit.uexp" 637
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit.uasset" 638
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS.uasset" 639
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS.uexp" 640
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS.uasset" 641
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS.uexp" 642
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission_TS.uexp" 643
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission_TS.uasset" 644
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque.uexp" 645
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque.uasset" 646
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat.uexp" 647
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat.uasset" 648
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_TS.uasset" 649
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_TS.uexp" 650
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent.uexp" 651
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent.uasset" 652
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/V2/ObjectScale.uexp" 653
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/V2/ObjectScale.uasset" 654
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransmissionOpacity.uexp" 655
-"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransmissionOpacity.uasset" 656
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Transmission.uexp" 657
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Transmission.uasset" 658
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_StandardSurface.uasset" 659
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_StandardSurface.uexp" 660
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uexp" 661
-"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uasset" 662
-"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 663
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 664
-"../../../Engine/Content/Maps/Entry.umap" 665
-"../../../Engine/Content/Maps/Entry.uexp" 666
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uasset" 667
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uexp" 668
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/GameFramework/ENUM_GestureType.uexp" 669
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/GameFramework/ENUM_GestureType.uasset" 670
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_Square.ubulk" 671
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_Square.uasset" 672
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_Square.uexp" 673
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 674
-"../../../Engine/Content/BasicShapes/Cylinder.uexp" 675
-"../../../Engine/Content/BasicShapes/Plane.uasset" 676
-"../../../Engine/Content/BasicShapes/Plane.uexp" 677
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Mesh/SM_ArrowBody.uasset" 678
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Mesh/SM_ArrowBody.uexp" 679
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Scale.uasset" 680
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Scale.uexp" 681
-"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 682
-"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uexp" 683
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 684
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 685
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 686
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 687
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/MF_CircularScan.uasset" 688
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/MF_CircularScan.uexp" 689
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Plane_02.uexp" 690
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Plane_02.uasset" 691
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/MF_DistanceFalloff.uasset" 692
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/MF_DistanceFalloff.uexp" 693
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Plane_Fallback.uexp" 694
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Plane_Fallback.uasset" 695
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Plane_Plain.uasset" 696
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Plane_Plain.uexp" 697
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Plane_01.uexp" 698
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Plane_01.uasset" 699
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 700
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 701
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/BP_Plane.uasset" 702
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/BP_Plane.uexp" 703
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_CirclePlate.uasset" 704
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_CirclePlate.uexp" 705
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Placeable.uexp" 706
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Placeable.uasset" 707
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Mesh/SM_Plate.uasset" 708
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Mesh/SM_Plate.uexp" 709
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_SquarePlate.uasset" 710
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_SquarePlate.uexp" 711
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Arrow.uexp" 712
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Arrow.uasset" 713
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Rotate.uexp" 714
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Rotate.uasset" 715
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Mesh/SM_ArrowHead.uasset" 716
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Mesh/SM_ArrowHead.uexp" 717
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 718
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 719
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/ProductAssets/Materials/M_Plastic.uasset" 720
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/ProductAssets/Materials/M_Plastic.uexp" 721
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/ProductAssets/Mesh/SM_Manequin.uasset" 722
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/ProductAssets/Mesh/SM_Manequin.uexp" 723
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/ProductAssets/BP_ProductAssetRef.uexp" 724
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/ProductAssets/BP_ProductAssetRef.uasset" 725
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Move.uexp" 726
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Move.uasset" 727
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/MPC_disolve.uexp" 728
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/MPC_disolve.uasset" 729
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/BoxMask-3D.uasset" 730
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/BoxMask-3D.uexp" 731
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Ship.uexp" 732
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Ship.uasset" 733
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/M_Rascladchik.uasset" 734
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/M_Rascladchik.uexp" 735
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Rascladchik/rascladchik_anim_Skeleton.uasset" 736
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Rascladchik/rascladchik_anim_Skeleton.uexp" 737
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Rascladchik/rascladchik_anim.uasset" 738
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Rascladchik/rascladchik_anim.uexp" 739
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/textures/terrain/terrain_ao.ubulk" 740
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/textures/terrain/terrain_ao.uasset" 741
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/textures/terrain/terrain_ao.uexp" 742
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/textures/grid.uasset" 743
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/textures/grid.uexp" 744
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/textures/terrain/terrain_normal.ubulk" 745
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/textures/terrain/terrain_normal.uasset" 746
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/textures/terrain/terrain_normal.uexp" 747
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/materials/terrain.uasset" 748
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/materials/terrain.uexp" 749
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/terrain.uasset" 750
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/terrain.uexp" 751
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Scaner/scaner_anim_Skeleton.uasset" 752
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Scaner/scaner_anim_Skeleton.uexp" 753
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/M_Scaner.uasset" 754
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/M_Scaner.uexp" 755
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Scaner/scaner_anim.uexp" 756
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Scaner/scaner_anim.uasset" 757
-"../../../Engine/Content/BasicShapes/Cube.uasset" 758
-"../../../Engine/Content/BasicShapes/Cube.uexp" 759
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Mask_material.uasset" 760
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Mask_material.uexp" 761
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Mask_cube.uexp" 762
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Mask_cube.uasset" 763
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/materials/Water.uexp" 764
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/materials/Water.uasset" 765
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/materials/Water_Inst.uexp" 766
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/materials/Water_Inst.uasset" 767
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/water.uexp" 768
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/water.uasset" 769
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/SeiVAL.uexp" 770
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/SeiVAL.uasset" 771
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_Shadow.uexp" 772
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_Shadow.uasset" 773
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Shadow.uasset" 774
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Shadow.uexp" 775
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/BP_InteractionHUD.uasset" 776
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/BP_InteractionHUD.uexp" 777
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/BP_Placeable.uasset" 778
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/BP_Placeable.uexp" 779
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Right.uasset" 780
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Right.uexp" 781
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Close.uexp" 782
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Close.uasset" 783
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Snapshot_01.uexp" 784
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Snapshot_01.uasset" 785
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Center_02.uasset" 786
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Center_02.uexp" 787
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_OFF_02.uasset" 788
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_OFF_02.uexp" 789
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Info_02.uexp" 790
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Info_02.uasset" 791
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Left_02.uasset" 792
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Left_02.uexp" 793
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Close_02.uexp" 794
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Close_02.uasset" 795
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_ON.uexp" 796
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_ON.uasset" 797
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 798
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 799
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 800
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 801
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 802
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 803
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 804
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 805
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 806
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 807
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 808
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 809
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 810
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 811
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 812
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 813
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 814
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 815
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 816
-"../../../Engine/Content/EngineFonts/Roboto.uexp" 817
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/ENUM_UIStyle.uexp" 818
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/ENUM_UIStyle.uasset" 819
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/Enum_FontTypeFace.uexp" 820
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/Enum_FontTypeFace.uasset" 821
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/Enum_IconType.uexp" 822
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/Enum_IconType.uasset" 823
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/Struct_Icon.uexp" 824
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/Struct_Icon.uasset" 825
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/Struct_Style.uexp" 826
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/Struct_Style.uasset" 827
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Info_01.uasset" 828
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Info_01.uexp" 829
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Options_02.uexp" 830
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Options_02.uasset" 831
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Left_02.uasset" 832
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Left_02.uexp" 833
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Snapshot_02.uasset" 834
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Snapshot_02.uexp" 835
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_ON_02.uasset" 836
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_ON_02.uexp" 837
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Left.uasset" 838
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Left.uexp" 839
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Right_02.uexp" 840
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Right_02.uasset" 841
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Options_01.uexp" 842
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Options_01.uasset" 843
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Right_02.uasset" 844
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Right_02.uexp" 845
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Reset_01.uexp" 846
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Reset_01.uasset" 847
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_OFF.uasset" 848
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_OFF.uexp" 849
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Right.uexp" 850
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Right.uasset" 851
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Reset_02.uasset" 852
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Reset_02.uexp" 853
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Left.uasset" 854
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Left.uexp" 855
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Center.uexp" 856
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Center.uasset" 857
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/DT_Styles.uasset" 858
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/DT_Styles.uexp" 859
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonUI.uexp" 860
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonUI.uasset" 861
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/UI_ToggleButton.uexp" 862
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/UI_ToggleButton.uasset" 863
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/UI_CapsuleButton.uasset" 864
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/UI_CapsuleButton.uexp" 865
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/BP_StylizedUI.uasset" 866
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/BP_StylizedUI.uexp" 867
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_OptionMenu.uexp" 868
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_OptionMenu.uasset" 869
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro-Text-Heavy.uexp" 870
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro-Text-Heavy.uasset" 871
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro-Text-Heavy.ufont" 872
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro-Text-Heavy_Font.uasset" 873
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro-Text-Heavy_Font.uexp" 874
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/StrataAR/UI/InfoBlockSide.uasset" 875
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/StrataAR/UI/InfoBlockSide.uexp" 876
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/StrataAR/UI/InfoBlockMoveline.uexp" 877
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/StrataAR/UI/InfoBlockMoveline.uasset" 878
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro.uasset" 879
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro.ufont" 880
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro.uexp" 881
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro_Font.uasset" 882
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro_Font.uexp" 883
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_CircularMenu_Top.uasset" 884
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_CircularMenu_Top.uexp" 885
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_CircularMenu.uasset" 886
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_CircularMenu.uexp" 887
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Circle.uexp" 888
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Circle.uasset" 889
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Materials/M_CircularMenuSelection.uasset" 890
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Materials/M_CircularMenuSelection.uexp" 891
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_BottomMenu.uexp" 892
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_BottomMenu.uasset" 893
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Loading.uasset" 894
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Loading.uexp" 895
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonRotatingUI.uasset" 896
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonRotatingUI.uexp" 897
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Circle.uasset" 898
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Circle.uexp" 899
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_StartMenu.uexp" 900
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_StartMenu.uasset" 901
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Materials/M_CircularMask.uasset" 902
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Materials/M_CircularMask.uexp" 903
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Shot_01.ubulk" 904
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Shot_01.uasset" 905
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Shot_01.uexp" 906
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/D_ARSessionConfig.uexp" 907
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/D_ARSessionConfig.uasset" 908
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Pinch.uasset" 909
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Pinch.uexp" 910
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Grab.uexp" 911
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Grab.uasset" 912
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Swipe.uexp" 913
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Swipe.uasset" 914
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_InfoMenu.uexp" 915
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_InfoMenu.uasset" 916
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_MainMenu.uexp" 917
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_MainMenu.uasset" 918
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/GameFramework/BP_ARPawn.uexp" 919
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/GameFramework/BP_ARPawn.uasset" 920
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uexp" 921
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uasset" 922
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 923
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 924
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Maps/HandheldARBlankMap.uexp" 925
-"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Maps/HandheldARBlankMap.umap" 926
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 103
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 104
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 105
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 106
+"../../../Engine/Content/BasicShapes/Cone.uexp" 107
+"../../../Engine/Content/BasicShapes/Cone.uasset" 108
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 109
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 110
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 111
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 112
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uexp" 113
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 114
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uexp" 115
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 116
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 117
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 118
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 119
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 120
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 121
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp" 122
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 123
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 124
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 125
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 126
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 127
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uexp" 128
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset" 129
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 130
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 131
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 132
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 133
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 134
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp" 135
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 136
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 137
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 138
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 139
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 140
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 141
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 142
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 143
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 144
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 145
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 146
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 147
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 148
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 149
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 150
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 151
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 152
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 153
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 154
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 155
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 156
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 157
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 158
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 159
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 160
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 161
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 162
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 163
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 164
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 165
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 166
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 167
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp" 168
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 169
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 170
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 171
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp" 172
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 173
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 174
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 175
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 176
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 177
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 178
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 179
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 180
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 181
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 182
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 183
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 184
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 185
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 186
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 187
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 188
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 189
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 190
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 191
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 192
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 193
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 194
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 195
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset" 196
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uexp" 197
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset" 198
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uexp" 199
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 200
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 201
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 202
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 203
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset" 204
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uexp" 205
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 206
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 207
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 208
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 209
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 210
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 211
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 212
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 213
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 214
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 215
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 216
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 217
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 218
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uexp" 219
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset" 220
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 221
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 222
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 223
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp" 224
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 225
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 226
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 227
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 228
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 229
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 230
+"../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uasset" 231
+"../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uexp" 232
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 233
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 234
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 235
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 236
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 237
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 238
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uexp" 239
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset" 240
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 241
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 242
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset" 243
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uexp" 244
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uasset" 245
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uexp" 246
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 247
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 248
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 249
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 250
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 251
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 252
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 253
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 254
+"../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uasset" 255
+"../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uexp" 256
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 257
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 258
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 259
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 260
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 261
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 262
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 263
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 264
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 265
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 266
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 267
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 268
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 269
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 270
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 271
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp" 272
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 273
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp" 274
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 275
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp" 276
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 277
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp" 278
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 279
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 280
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 281
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 282
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 283
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 284
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 285
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 286
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 287
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 288
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 289
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 290
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 291
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 292
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 293
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 294
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 295
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 296
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 297
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 298
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 299
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 300
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp" 301
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 302
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 303
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 304
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 305
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 306
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 307
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 308
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 309
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp" 310
+"../../../Engine/Content/EngineSounds/Master.uexp" 311
+"../../../Engine/Content/EngineSounds/Master.uasset" 312
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 313
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 314
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 315
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 316
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 317
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 318
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 319
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 320
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 321
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 322
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 323
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 324
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 325
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 326
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 327
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset" 328
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uexp" 329
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp" 330
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 331
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp" 332
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 333
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 334
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 335
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp" 336
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 337
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 338
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 339
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uexp" 340
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uasset" 341
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp" 342
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 343
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp" 344
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 345
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 346
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 347
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 348
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uexp" 349
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 350
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 351
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp" 352
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 353
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp" 354
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 355
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp" 356
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 357
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp" 358
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 359
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp" 360
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 361
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 362
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 363
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 364
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp" 365
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp" 366
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 367
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp" 368
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 369
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp" 370
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 371
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 372
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 373
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp" 374
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 375
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp" 376
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 377
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 378
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp" 379
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp" 380
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 381
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 382
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp" 383
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp" 384
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 385
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 386
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 387
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp" 388
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 389
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 390
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp" 391
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp" 392
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 393
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 394
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 395
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp" 396
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 397
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 398
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp" 399
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp" 400
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 401
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 402
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp" 403
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 404
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 405
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 406
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 407
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uexp" 408
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset" 409
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uexp" 410
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uasset" 411
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uasset" 412
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uexp" 413
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uasset" 414
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uexp" 415
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uasset" 416
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uexp" 417
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 418
+"../../../Engine/Content/EngineMaterials/DefaultNormal.ubulk" 419
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uexp" 420
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrScalarFunction.uexp" 421
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrScalarFunction.uasset" 422
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrLinearColorFunction.uasset" 423
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrLinearColorFunction.uexp" 424
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrColorFunction.uexp" 425
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrColorFunction.uasset" 426
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/CommonMaterial.uasset" 427
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/CommonMaterial.uexp" 428
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceFunction.uasset" 429
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceFunction.uexp" 430
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ThinTranslucentMaterial.uexp" 431
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ThinTranslucentMaterial.uasset" 432
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uasset" 433
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uexp" 434
+"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 435
+"../../../Engine/Content/EngineMaterials/FlatNormal.uexp" 436
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_OrenNayerView.uexp" 437
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_OrenNayerView.uasset" 438
+"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uexp" 439
+"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uasset" 440
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_SchlickApprox.uasset" 441
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_SchlickApprox.uexp" 442
+"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/New_LUT.uasset" 443
+"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/New_LUT.uexp" 444
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uexp" 445
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 446
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_Iridescence.uasset" 447
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_Iridescence.uexp" 448
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/OrenNayerMaterial.uexp" 449
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/OrenNayerMaterial.uasset" 450
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/LambertSurfaceMaterial.uexp" 451
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/LambertSurfaceMaterial.uasset" 452
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SubsurfaceMaterial.uasset" 453
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SubsurfaceMaterial.uexp" 454
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ClearCoatMaterial.uexp" 455
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ClearCoatMaterial.uasset" 456
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceMaterial.uexp" 457
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceMaterial.uasset" 458
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SheenMaterial.uasset" 459
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SheenMaterial.uexp" 460
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 461
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 462
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PhongSurfaceMaterial.uexp" 463
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PhongSurfaceMaterial.uasset" 464
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Gray_Linear.uasset" 465
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Gray_Linear.uexp" 466
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Black_srgb.uasset" 467
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Black_srgb.uexp" 468
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateV2.uasset" 469
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateV2.uexp" 470
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uasset" 471
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uexp" 472
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_srgb.uasset" 473
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_srgb.uexp" 474
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_BaseColor.uexp" 475
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_BaseColor.uasset" 476
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uasset" 477
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uexp" 478
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_Linear.uexp" 479
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_Linear.uasset" 480
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uexp" 481
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uasset" 482
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Transmission.uasset" 483
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Transmission.uexp" 484
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Occlusion.uasset" 485
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Occlusion.uexp" 486
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 487
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uexp" 488
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 489
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uexp" 490
+"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/T_Bayer64_Grayscale_64px.uasset" 491
+"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/T_Bayer64_Grayscale_64px.uexp" 492
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Temporal_Blur.uexp" 493
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Temporal_Blur.uasset" 494
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Specular.uexp" 495
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Specular.uasset" 496
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_IOR.uexp" 497
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_IOR.uasset" 498
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uexp" 499
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uasset" 500
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 501
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uexp" 502
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 503
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uexp" 504
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uexp" 505
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uasset" 506
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Generic_N.uasset" 507
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Generic_N.uexp" 508
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Normals.uasset" 509
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Normals.uexp" 510
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uexp" 511
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 512
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_PerceivedBrightness.uasset" 513
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_PerceivedBrightness.uexp" 514
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uasset" 515
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uexp" 516
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Transmission.uasset" 517
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Transmission.uexp" 518
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission.uexp" 519
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission.uasset" 520
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Emissive.uexp" 521
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Emissive.uasset" 522
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Sheen.uasset" 523
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Sheen.uexp" 524
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.uexp" 525
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.uasset" 526
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Sheen.uasset" 527
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Sheen.uexp" 528
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen.uexp" 529
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen.uasset" 530
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Clearcoat.uexp" 531
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Clearcoat.uasset" 532
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Opaque.uasset" 533
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Opaque.uexp" 534
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat_TS.uasset" 535
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat_TS.uexp" 536
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS.uasset" 537
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS.uexp" 538
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Translucent.uasset" 539
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Translucent.uexp" 540
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat.uexp" 541
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat.uasset" 542
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_TS.uasset" 543
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_TS.uexp" 544
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat_TS.uasset" 545
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat_TS.uexp" 546
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission_TS.uexp" 547
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission_TS.uasset" 548
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque.uexp" 549
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque.uasset" 550
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat.uexp" 551
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat.uasset" 552
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_TS.uasset" 553
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_TS.uexp" 554
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent.uexp" 555
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent.uasset" 556
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission.uexp" 557
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission.uasset" 558
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen.uexp" 559
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen.uasset" 560
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS.uasset" 561
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS.uexp" 562
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS.uasset" 563
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS.uexp" 564
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat.uexp" 565
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat.uasset" 566
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_TS.uasset" 567
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_TS.uexp" 568
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uasset" 569
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uexp" 570
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit.uexp" 571
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit.uasset" 572
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS.uasset" 573
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS.uexp" 574
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS.uasset" 575
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS.uexp" 576
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission_TS.uexp" 577
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission_TS.uasset" 578
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque.uexp" 579
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque.uasset" 580
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat.uexp" 581
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat.uasset" 582
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_TS.uasset" 583
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_TS.uexp" 584
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent.uexp" 585
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent.uasset" 586
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 587
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 588
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/V2/ObjectScale.uexp" 589
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/V2/ObjectScale.uasset" 590
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 591
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 592
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransmissionOpacity.uexp" 593
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransmissionOpacity.uasset" 594
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Transmission.uexp" 595
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Transmission.uasset" 596
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_StandardSurface.uasset" 597
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_StandardSurface.uexp" 598
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uexp" 599
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uasset" 600
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 601
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 602
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 603
+"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/M_OcclusionOverlay.uexp" 604
+"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/M_OcclusionOverlay.uasset" 605
+"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/MI_MatteOcclusionOverlay.uexp" 606
+"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/MI_MatteOcclusionOverlay.uasset" 607
+"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/MI_DepthOcclusionOverlay.uasset" 608
+"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/MI_DepthOcclusionOverlay.uexp" 609
+"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/M_SceneDepthOcclusion.uasset" 610
+"../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/M_SceneDepthOcclusion.uexp" 611
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MF_DistanceColorLerp.uexp" 612
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MF_DistanceColorLerp.uasset" 613
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_DepthColoration.uexp" 614
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_DepthColoration.uasset" 615
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/DummyExternalTexture.uexp" 616
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/DummyExternalTexture.uasset" 617
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_PassthroughCamera.uasset" 618
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_PassthroughCamera.uexp" 619
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_PassthroughCameraExternalTexture.uexp" 620
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_PassthroughCameraExternalTexture.uasset" 621
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_ScreenSpacePassthroughCamera.uexp" 622
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/M_ScreenSpacePassthroughCamera.uasset" 623
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_ScreenSpacePassthroughCameraExternalTexture.uasset" 624
+"../../../Engine/Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_ScreenSpacePassthroughCameraExternalTexture.uexp" 625
+"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uexp" 626
+"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uasset" 627
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 628
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 629
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 630
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 631
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 632
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 633
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 634
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 635
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 636
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 637
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 638
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 639
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 640
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 641
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 642
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 643
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 644
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 645
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 646
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 647
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 648
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 649
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 650
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 651
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 652
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 653
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 654
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 655
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 656
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 657
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 658
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 659
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 660
+"../../../Engine/Content/Maps/Entry.umap" 661
+"../../../Engine/Content/Maps/Entry.uexp" 662
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uasset" 663
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/GameFramework/BP_ARPlayerController.uexp" 664
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/GameFramework/ENUM_GestureType.uexp" 665
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/GameFramework/ENUM_GestureType.uasset" 666
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_Square.ubulk" 667
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_Square.uasset" 668
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_Square.uexp" 669
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 670
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 671
+"../../../Engine/Content/BasicShapes/Plane.uasset" 672
+"../../../Engine/Content/BasicShapes/Plane.uexp" 673
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Mesh/SM_ArrowBody.uasset" 674
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Mesh/SM_ArrowBody.uexp" 675
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Scale.uasset" 676
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Scale.uexp" 677
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 678
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uexp" 679
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 680
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 681
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 682
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 683
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/MF_CircularScan.uasset" 684
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/MF_CircularScan.uexp" 685
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Plane_02.uexp" 686
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Plane_02.uasset" 687
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/MF_DistanceFalloff.uasset" 688
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/MF_DistanceFalloff.uexp" 689
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Plane_Fallback.uexp" 690
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Plane_Fallback.uasset" 691
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Plane_Plain.uasset" 692
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Plane_Plain.uexp" 693
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Plane_01.uexp" 694
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Plane_01.uasset" 695
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 696
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 697
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/BP_Plane.uasset" 698
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/BP_Plane.uexp" 699
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_CirclePlate.uasset" 700
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_CirclePlate.uexp" 701
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Placeable.uexp" 702
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Placeable.uasset" 703
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Mesh/SM_Plate.uasset" 704
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Mesh/SM_Plate.uexp" 705
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_SquarePlate.uasset" 706
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_SquarePlate.uexp" 707
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Arrow.uexp" 708
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Arrow.uasset" 709
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Rotate.uexp" 710
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Rotate.uasset" 711
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Mesh/SM_ArrowHead.uasset" 712
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Mesh/SM_ArrowHead.uexp" 713
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 714
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 715
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/ProductAssets/Materials/M_Plastic.uasset" 716
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/ProductAssets/Materials/M_Plastic.uexp" 717
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/ProductAssets/Mesh/SM_Manequin.uasset" 718
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/ProductAssets/Mesh/SM_Manequin.uexp" 719
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/ProductAssets/BP_ProductAssetRef.uexp" 720
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/ProductAssets/BP_ProductAssetRef.uasset" 721
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Move.uexp" 722
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Move.uasset" 723
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/MPC_disolve.uexp" 724
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/MPC_disolve.uasset" 725
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/BoxMask-3D.uasset" 726
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/BoxMask-3D.uexp" 727
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Ship.uexp" 728
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Ship.uasset" 729
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/M_Rascladchik.uasset" 730
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/M_Rascladchik.uexp" 731
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Rascladchik/rascladchik_anim_Skeleton.uasset" 732
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Rascladchik/rascladchik_anim_Skeleton.uexp" 733
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Rascladchik/rascladchik_anim.uasset" 734
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Rascladchik/rascladchik_anim.uexp" 735
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/textures/terrain/terrain_ao.ubulk" 736
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/textures/terrain/terrain_ao.uasset" 737
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/textures/terrain/terrain_ao.uexp" 738
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/textures/grid.uasset" 739
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/textures/grid.uexp" 740
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/textures/terrain/terrain_normal.ubulk" 741
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/textures/terrain/terrain_normal.uasset" 742
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/textures/terrain/terrain_normal.uexp" 743
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/materials/terrain.uasset" 744
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/materials/terrain.uexp" 745
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/materials/terrain_sides.uasset" 746
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/materials/terrain_sides.uexp" 747
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/terrain.uasset" 748
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/terrain.uexp" 749
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Scaner/scaner_anim_Skeleton.uasset" 750
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Scaner/scaner_anim_Skeleton.uexp" 751
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/M_Scaner.uasset" 752
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/M_Scaner.uexp" 753
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Scaner/scaner_anim.uexp" 754
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Scaner/scaner_anim.uasset" 755
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 756
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 757
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 758
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 759
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 760
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 761
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uexp" 762
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uasset" 763
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uexp" 764
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uasset" 765
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uasset" 766
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uexp" 767
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 768
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 769
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 770
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 771
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 772
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 773
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 774
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 775
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 776
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 777
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uasset" 778
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uexp" 779
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 780
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 781
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 782
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 783
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 784
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 785
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 786
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 787
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 788
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 789
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 790
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 791
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 792
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 793
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 794
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 795
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 796
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 797
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 798
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 799
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uasset" 800
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uexp" 801
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/seiVAL_scaner/NewNiagaraSystem.uasset" 802
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/seiVAL_scaner/NewNiagaraSystem.uexp" 803
+"../../../Engine/Content/BasicShapes/Cube.uasset" 804
+"../../../Engine/Content/BasicShapes/Cube.uexp" 805
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Mask_material.uasset" 806
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Mask_material.uexp" 807
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Mask_cube.uexp" 808
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Mask_cube.uasset" 809
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 810
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 811
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 812
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 813
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Rascladchik/rascladchik_anim_Anim.uasset" 814
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Rascladchik/rascladchik_anim_Anim.uexp" 815
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/materials/Water.uexp" 816
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/materials/Water.uasset" 817
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/materials/Water_Inst.uexp" 818
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/materials/Water_Inst.uasset" 819
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/water.uexp" 820
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/water.uasset" 821
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Scaner/scaner_anim_Anim.uasset" 822
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/Ships/Scaner/scaner_anim_Anim.uexp" 823
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/SeiVAL.uexp" 824
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/models/SeiVAL.uasset" 825
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_Shadow.uexp" 826
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Textures/T_Shadow.uasset" 827
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Shadow.uasset" 828
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/Materials/M_Shadow.uexp" 829
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/BP_InteractionHUD.uasset" 830
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/BP_InteractionHUD.uexp" 831
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/BP_Placeable.uasset" 832
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/Placeable/BP_Placeable.uexp" 833
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Right.uasset" 834
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Right.uexp" 835
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Close.uexp" 836
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Close.uasset" 837
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Snapshot_01.uexp" 838
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Snapshot_01.uasset" 839
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Center_02.uasset" 840
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Center_02.uexp" 841
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_OFF_02.uasset" 842
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_OFF_02.uexp" 843
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Info_02.uexp" 844
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Info_02.uasset" 845
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Left_02.uasset" 846
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Left_02.uexp" 847
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Close_02.uexp" 848
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Close_02.uasset" 849
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_ON.uexp" 850
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_ON.uasset" 851
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 852
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 853
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 854
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 855
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 856
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 857
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 858
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 859
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 860
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 861
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 862
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 863
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 864
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 865
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 866
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 867
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 868
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 869
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 870
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 871
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/ENUM_UIStyle.uexp" 872
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/ENUM_UIStyle.uasset" 873
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/Enum_FontTypeFace.uexp" 874
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/Enum_FontTypeFace.uasset" 875
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/Enum_IconType.uexp" 876
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/Enum_IconType.uasset" 877
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/Struct_Icon.uexp" 878
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/Struct_Icon.uasset" 879
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/Struct_Style.uexp" 880
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/Struct_Style.uasset" 881
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Info_01.uasset" 882
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Info_01.uexp" 883
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Options_02.uexp" 884
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Options_02.uasset" 885
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Left_02.uasset" 886
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Left_02.uexp" 887
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Snapshot_02.uasset" 888
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Snapshot_02.uexp" 889
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_ON_02.uasset" 890
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_ON_02.uexp" 891
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Left.uasset" 892
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Left.uexp" 893
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Right_02.uexp" 894
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Right_02.uasset" 895
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Options_01.uexp" 896
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Options_01.uasset" 897
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Right_02.uasset" 898
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Right_02.uexp" 899
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Reset_01.uexp" 900
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Reset_01.uasset" 901
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_OFF.uasset" 902
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_OFF.uexp" 903
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Right.uexp" 904
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Right.uasset" 905
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Reset_02.uasset" 906
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Reset_02.uexp" 907
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Left.uasset" 908
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Left.uexp" 909
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Center.uexp" 910
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Capsule_Center.uasset" 911
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/DT_Styles.uasset" 912
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/DT_Styles.uexp" 913
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonUI.uexp" 914
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonUI.uasset" 915
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/UI_ToggleButton.uexp" 916
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/UI_ToggleButton.uasset" 917
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/UI_CapsuleButton.uasset" 918
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/UI_CapsuleButton.uexp" 919
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/BP_StylizedUI.uasset" 920
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Styles/BP_StylizedUI.uexp" 921
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_OptionMenu.uexp" 922
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_OptionMenu.uasset" 923
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro-Text-Heavy.uexp" 924
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro-Text-Heavy.uasset" 925
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro-Text-Heavy.ufont" 926
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro-Text-Heavy_Font.uasset" 927
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro-Text-Heavy_Font.uexp" 928
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/StrataAR/UI/InfoBlockSide.uasset" 929
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/StrataAR/UI/InfoBlockSide.uexp" 930
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/StrataAR/UI/InfoBlockMoveline.uexp" 931
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/StrataAR/UI/InfoBlockMoveline.uasset" 932
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro.uasset" 933
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro.ufont" 934
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro.uexp" 935
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro_Font.uasset" 936
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Fonts/SF-Pro_Font.uexp" 937
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_CircularMenu_Top.uasset" 938
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_CircularMenu_Top.uexp" 939
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_CircularMenu.uasset" 940
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_CircularMenu.uexp" 941
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Circle.uexp" 942
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Circle.uasset" 943
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/StrataAR/UI/InfoBlockRect.uexp" 944
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/StrataAR/UI/InfoBlockRect.uasset" 945
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Materials/M_CircularMenuSelection.uasset" 946
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Materials/M_CircularMenuSelection.uexp" 947
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_BottomMenu.uexp" 948
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_BottomMenu.uasset" 949
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Loading.uasset" 950
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Loading.uexp" 951
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonRotatingUI.uasset" 952
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Materials/M_ButtonRotatingUI.uexp" 953
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Circle.uasset" 954
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Shape_Circle.uexp" 955
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_StartMenu.uexp" 956
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_StartMenu.uasset" 957
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Materials/M_CircularMask.uasset" 958
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Materials/M_CircularMask.uexp" 959
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Shot_01.ubulk" 960
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Shot_01.uasset" 961
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Shot_01.uexp" 962
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/D_ARSessionConfig.uexp" 963
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/D_ARSessionConfig.uasset" 964
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Pinch.uasset" 965
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Pinch.uexp" 966
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Grab.uexp" 967
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Grab.uasset" 968
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Swipe.uexp" 969
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/Icons/T_Icon_Swipe.uasset" 970
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_InfoMenu.uexp" 971
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_InfoMenu.uasset" 972
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_MainMenu.uexp" 973
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/UI/BP_MainMenu.uasset" 974
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/GameFramework/BP_ARPawn.uexp" 975
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/GameFramework/BP_ARPawn.uasset" 976
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uexp" 977
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Blueprints/GameFramework/BP_ARGameMode.uasset" 978
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 979
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 980
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/Untitled.uexp" 981
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/Untitled.umap" 982
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Maps/HandheldARBlankMap.uexp" 983
+"/Users/elzzz/Documents/Unreal Projects/StrataShowcase5/Content/HandheldAR/Maps/HandheldARBlankMap.umap" 984
